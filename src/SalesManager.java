@@ -1,7 +1,8 @@
 public class SalesManager {
+
     protected int[] sales;
 
-    public SalesManager(int[] sales) {
+    public SalesManager() {
         this.sales = sales;
     }
 
